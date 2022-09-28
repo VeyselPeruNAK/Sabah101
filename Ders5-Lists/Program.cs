@@ -11,21 +11,28 @@ namespace Ders5_Lists
             //// Dİzilerden farklı olarak. Kapasitesi sınırlı değildir. otomatik genişler.
 
             //// Tanımlama
-            //List<int> ilkListem = new List<int>();
-            //List<string> sehirler = new List<string>() { "istanbul", "İzmir", "Manisa", "Van" };
-            //List<int> araListe = new List<int>() { 1000, 2000, 3000 };
+            List<int> ilkListem = new List<int>();
+            List<string> sehirler = new List<string>() { "istanbul", "İzmir", "Manisa", "Manisa", "Van" };
+            List<int> araListe = new List<int>() { 1000, 2000, 3000 };
             //// Veri Ekleme
-            //ilkListem.Add(1990); // Add metodu listenin sonuna ekleme yapar.
-            //ilkListem.Add(1231);
-            //ilkListem.Add(1921);
-            //ilkListem.Insert(0, 1988); // 0. index'e 1988 değerini atar.
-            //ilkListem.InsertRange(2, araListe);
+            ilkListem.Add(1990); // Add metodu listenin sonuna ekleme yapar.
+            ilkListem.Add(1231);
+            ilkListem.Add(1921);
+            ilkListem.Insert(0, 1988); // 0. index'e 1988 değerini atar.
+            ilkListem.InsertRange(2, araListe);
 
 
             //// Veriye Ulaşma
-            //Console.WriteLine(ilkListem[0]);
-            //Console.WriteLine(ilkListem[1]);
-            //Console.WriteLine(sehirler[3]);
+            Console.WriteLine(ilkListem[0]);
+            Console.WriteLine(ilkListem[1]);
+            Console.WriteLine(sehirler[3]);
+
+            Console.WriteLine("BİTTİ");
+            foreach (var sehir in sehirler)
+            {
+                Console.WriteLine(sehir);
+            }
+            Console.ReadKey();
 
             //foreach (var item in ilkListem)
             //{
@@ -51,12 +58,17 @@ namespace Ders5_Lists
             //    sehirler.Insert(1, "Sivas");
 
             //// Listeden Silme
-            //sehirler.Remove("Manisa");
-            //foreach (var sehir in sehirler)
-            //{
-            //    Console.WriteLine(sehir);
-            //}
+            sehirler.Remove("Manisa");
+            sehirler.Remove("Manisa");
+            sehirler.Remove("Manisa");
+            sehirler.Remove("Manisa");
+            sehirler.Remove("Manisa");
 
+            foreach (var sehir in sehirler)
+            {
+                Console.WriteLine(sehir);
+            }
+            Console.WriteLine("v");
             //sehirler.RemoveAt(2); // 2. indexi sil.
 
 
@@ -155,10 +167,12 @@ namespace Ders5_Lists
             // Bulamazsa girdiği karakterler arasından üretline karaktere en yakın olanı ve farkını yazsın.
 
             Random rnd = new Random();
-            int rastGele = Convert.ToByte(rnd.Next(0, 255));
+            int rastGele = Convert.ToByte(rnd.Next(33, 127));
+            //rastGele = 131; 
             Console.WriteLine($"Üretilen : {rastGele}/{Convert.ToChar(rastGele)}");
 
             int enYakinTahmin = 255;
+            int enYakinFark = 255;
 
             List<int> tahminler = new List<int>();
             for (int i = 0; i < 15; i++)
@@ -184,13 +198,17 @@ namespace Ders5_Lists
                 else
                 {
                     int fark = Math.Abs((rastGele - tahmin)); // Mutlak değer aldık.
-                    if (fark < enYakinTahmin)
-                        enYakinTahmin = (byte)fark;
+                    if (fark < enYakinFark)
+                    {
+                        enYakinFark = fark;
+                        enYakinTahmin = tahmin;
+                    }
                 }
             }
             if (enYakinTahmin != 0)
                 Console.WriteLine($"Malesef bulamadınız!\n Rastgele karakter/ ASCII kodu : {Convert.ToChar(rastGele)} /{rastGele} En yakın tahmininiz : {Convert.ToChar(enYakinTahmin)}/{enYakinTahmin} ");
-
+            Console.WriteLine("BİR TUŞA BASINIZ:");
+            Console.ReadKey();
 
 
         }
