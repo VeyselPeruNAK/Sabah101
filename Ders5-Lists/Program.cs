@@ -155,7 +155,7 @@ namespace Ders5_Lists
             // Bulamazsa girdiği karakterler arasından üretline karaktere en yakın olanı ve farkını yazsın.
 
             Random rnd = new Random();
-            int rastGele = Convert.ToByte(rnd.Next(0,255));
+            int rastGele = Convert.ToByte(rnd.Next(0, 255));
             Console.WriteLine($"Üretilen : {rastGele}/{Convert.ToChar(rastGele)}");
 
             int enYakinTahmin = 255;
@@ -166,14 +166,14 @@ namespace Ders5_Lists
                 Console.Write("Tahmin:");
                 string k = Console.ReadLine();
                 Console.Write(k + " : ");
-                int kInt = Convert.ToInt32(k[0]); 
+                int kInt = Convert.ToInt32(k[0]);
                 tahminler.Add(kInt);
                 Console.WriteLine(kInt);
             }
 
             foreach (var tahmin in tahminler)
             {
-                if(tahmin==rastGele)
+                if (tahmin == rastGele)
                 {
                     Console.WriteLine("Tebrikler Buldunuz !");
                     char cTahmin = Convert.ToChar(tahmin);
@@ -188,10 +188,10 @@ namespace Ders5_Lists
                         enYakinTahmin = (byte)fark;
                 }
             }
-            if(enYakinTahmin!=0)
+            if (enYakinTahmin != 0)
                 Console.WriteLine($"Malesef bulamadınız!\n Rastgele karakter/ ASCII kodu : {Convert.ToChar(rastGele)} /{rastGele} En yakın tahmininiz : {Convert.ToChar(enYakinTahmin)}/{enYakinTahmin} ");
 
-            // Mehmet Demir
+
 
         }
     }
