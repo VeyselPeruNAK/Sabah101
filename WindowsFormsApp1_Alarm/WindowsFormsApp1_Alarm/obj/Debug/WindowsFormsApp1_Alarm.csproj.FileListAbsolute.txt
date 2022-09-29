@@ -1,0 +1,10 @@
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\WindowsFormsApp1_Alarm.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\alarm.Form1.resources
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\WindowsFormsApp1_Alarm.Properties.Resources.resources
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\WindowsFormsApp1_Alarm.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\WindowsFormsApp1_Alarm.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\bin\Debug\WindowsFormsApp1_Alarm.exe.config
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\bin\Debug\WindowsFormsApp1_Alarm.exe
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\bin\Debug\WindowsFormsApp1_Alarm.pdb
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\WindowsFormsApp1_Alarm.exe
+C:\Users\veyse\source\repos\Sabah101\WindowsFormsApp1_Alarm\WindowsFormsApp1_Alarm\obj\Debug\WindowsFormsApp1_Alarm.pdb
