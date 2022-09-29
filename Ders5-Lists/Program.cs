@@ -19,7 +19,7 @@ namespace Ders5_Lists
             ilkListem.Add(1231);
             ilkListem.Add(1921);
             ilkListem.Insert(0, 1988); // 0. index'e 1988 değerini atar.
-            ilkListem.InsertRange(2, araListe);
+            //ilkListem.InsertRange(2, araListe);
 
 
             //// Veriye Ulaşma
@@ -69,7 +69,7 @@ namespace Ders5_Lists
                 Console.WriteLine(sehir);
             }
             Console.WriteLine("v");
-            //sehirler.RemoveAt(2); // 2. indexi sil.
+            sehirler.RemoveAt(2); // 2. indexi sil.
 
 
 
@@ -100,7 +100,8 @@ namespace Ders5_Lists
             // SORU:# 1-10 arasında rastgele 5'er sayı üretip iki listeye atan ve daha sonra listenin elemanlarından 
             //# iki listede ortak olmayanları başka bir listeye atarak ekrana yazdıran program.
             //# Örn: l1 = [11,22,33,44,55] l2 = [55,66,77,88,99]  l3 = [11,22,33,44,66,77,88,99]
-            // CEVAP
+            // CEVAP:
+
             //List<int> liste1 = new List<int>();
             //List<int> liste2 = new List<int>();
             //List<int> listeFark = new List<int>();
@@ -161,54 +162,97 @@ namespace Ders5_Lists
             //    Console.WriteLine($"{tahmin} sayısının listedeki indeksi: {liste15.IndexOf(tahmin)}");
 
 
-            // 0-255 arasında 1 sayı üretin .
-            // Kullanıcıdan 15 karakter alıp bir listeye atın.
-            // Programın sonunda kullanıcı karakteri bulursa. Tebrik etsin. Ve karakteri ekranda göstersin.
-            // Bulamazsa girdiği karakterler arasından üretline karaktere en yakın olanı ve farkını yazsın.
+            //// 0-255 arasında 1 sayı üretin .
+            //// Kullanıcıdan 15 karakter alıp bir listeye atın.
+            //// Programın sonunda kullanıcı karakteri bulursa. Tebrik etsin. Ve karakteri ekranda göstersin.
+            //// Bulamazsa girdiği karakterler arasından üretline karaktere en yakın olanı ve farkını yazsın.
 
-            Random rnd = new Random();
-            int rastGele = Convert.ToByte(rnd.Next(33, 127));
+            //Random rnd2 = new Random();
+            //int rastGele = Convert.ToByte(rnd2.Next(33, 127));
+            ////rastGele = 131; 
+            //Console.WriteLine($"Üretilen : {rastGele}/{Convert.ToChar(rastGele)}");
+
+            //int enYakinTahmin = 255;
+            //int enYakinFark = 255;
+
+            //List<int> tahminler = new List<int>();
+            //for (int i = 0; i < 15; i++)
+            //{
+            //    Console.Write("Tahmin:");
+            //    string k = Console.ReadLine();
+            //    Console.Write(k + " : ");
+            //    int kInt = Convert.ToInt32(k[0]);
+            //    tahminler.Add(kInt);
+            //    Console.WriteLine(kInt);
+            //}
+
+            //foreach (var tahmin in tahminler)
+            //{
+            //    if (tahmin == rastGele)
+            //    {
+            //        Console.WriteLine("Tebrikler Buldunuz !");
+            //        char cTahmin = Convert.ToChar(tahmin);
+            //        enYakinTahmin = 0;
+            //        break;
+
+            //    }
+            //    else
+            //    {
+            //        int fark = Math.Abs((rastGele - tahmin)); // Mutlak değer aldık.
+            //        if (fark < enYakinFark)
+            //        {
+            //            enYakinFark = fark;
+            //            enYakinTahmin = tahmin;
+            //        }
+            //    }
+            //}
+            //if (enYakinTahmin != 0)
+            //    Console.WriteLine($"Malesef bulamadınız!\n Rastgele karakter/ ASCII kodu : {Convert.ToChar(rastGele)} /{rastGele} En yakın tahmininiz : {Convert.ToChar(enYakinTahmin)}/{enYakinTahmin} ");
+            //Console.WriteLine("BİR TUŞA BASINIZ:");
+            //Console.ReadKey();
+
+            // 0-1000 arasında 1 sayı üretin .
+            // Kullanıcıdan 15 tahmin alın, tahmin rastgele'den büyükse büyük, küçükse küçük yazsın. 
+            // Kullanıcı sayıyı bulursa: Tebrik etsin. Ve sayıyı ekranda göstersin.
+            // Program sonunda tüm tahminleri sırasıyla yazsın.  
+
+            Random rnd2 = new Random();
+            int rastGele = rnd2.Next(0, 1000);
             //rastGele = 131; 
-            Console.WriteLine($"Üretilen : {rastGele}/{Convert.ToChar(rastGele)}");
+            Console.WriteLine($"Üretilen : " + rastGele);
 
-            int enYakinTahmin = 255;
-            int enYakinFark = 255;
+
 
             List<int> tahminler = new List<int>();
             for (int i = 0; i < 15; i++)
             {
                 Console.Write("Tahmin:");
                 string k = Console.ReadLine();
-                Console.Write(k + " : ");
-                int kInt = Convert.ToInt32(k[0]);
+                Console.Write("Tahmin : ");
+                int kInt = Convert.ToInt32(k);
                 tahminler.Add(kInt);
                 Console.WriteLine(kInt);
-            }
-
-            foreach (var tahmin in tahminler)
-            {
-                if (tahmin == rastGele)
-                {
-                    Console.WriteLine("Tebrikler Buldunuz !");
-                    char cTahmin = Convert.ToChar(tahmin);
-                    enYakinTahmin = 0;
-                    break;
-
-                }
+                if (kInt < rastGele)
+                    Console.WriteLine("Tahmin küçüktür.");
+                else if (kInt > rastGele)
+                    Console.WriteLine("Tahmin büyüktür.");
                 else
                 {
-                    int fark = Math.Abs((rastGele - tahmin)); // Mutlak değer aldık.
-                    if (fark < enYakinFark)
-                    {
-                        enYakinFark = fark;
-                        enYakinTahmin = tahmin;
-                    }
+                    Console.WriteLine("Tebrikler, bildiniz:" + rastGele);
+                    break;
                 }
             }
-            if (enYakinTahmin != 0)
-                Console.WriteLine($"Malesef bulamadınız!\n Rastgele karakter/ ASCII kodu : {Convert.ToChar(rastGele)} /{rastGele} En yakın tahmininiz : {Convert.ToChar(enYakinTahmin)}/{enYakinTahmin} ");
+
+
+            Console.WriteLine("Tahminler");
+            foreach (var tahmin in tahminler)
+            {
+                Console.Write(tahmin + " ");
+            }
+            Console.WriteLine("");
             Console.WriteLine("BİR TUŞA BASINIZ:");
             Console.ReadKey();
+
 
 
         }

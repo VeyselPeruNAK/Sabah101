@@ -18,13 +18,13 @@ namespace Ders5_Arrays_Lists
             //rakamlar.SetValue(100, 0); // yukarıdaki işlemi böyle de yapabiliriz.
             //Console.WriteLine(rakamlar[0]);
 
-            //string[] sehirler = { "Adana", "Adıyaman", "Afyon", "Ağrı", "Amasya" };
+            string[] sehirler = { "Adana", "Adıyaman", "Afyon", "Ağrı", "Amasya" };
             //Console.WriteLine(sehirler);
-            //for (int i = 0; i < sehirler.Length; i++)
-            //{
-            //    Console.WriteLine(sehirler[i]);
-            //}
-
+            for (int i = 0; i < sehirler.Length; i++)
+            {
+                Console.WriteLine(sehirler[i]);
+            }
+            Console.WriteLine("");
             //// yukarıdaki döngü ile aynı işi yapar. İndis yerine doğrudan şehir bilgisine ulaşır.
             //foreach (var sehir in sehirler) // sehirler disizindeki her bir sehir için...
             //{
@@ -148,7 +148,7 @@ namespace Ders5_Arrays_Lists
             //    }
             //    Console.WriteLine();
             //}
-            // Aşaıdaki çıktıyı veren matrisi döngü ile oluşturunuz.
+            // Aşağıdaki çıktıyı veren matrisi döngü ile oluşturunuz.
             /*
             2 0 0 0 2
             1 0 0 0 1
@@ -192,7 +192,7 @@ namespace Ders5_Arrays_Lists
             //}
 
 
-            //   https://codeshare.io/NA203
+            //   
 
             /*
             1 0 0 0 0
@@ -242,24 +242,25 @@ namespace Ders5_Arrays_Lists
             //ÖRNEK
             //{ 0,0,0 }
             //{ 0,0,0 }
-            //int[,] dizi2B = new int[2, 3];
-            //// diziye değer atadık
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    for (int j = 0; j < 3; j++)
-            //    {
-            //        dizi2B[i, j] = 5;
-            //    }
-            //}
-            //// diziyi ekrana yazdırdık.
-            //for (int i = 0; i < 2; i++)
-            //{
-            //    for (int j = 0; j < 3; j++)
-            //    {
-            //        Console.Write(dizi2B[i, j] + " ");
-            //    }
-            //    Console.WriteLine();
-            //}
+            int[,] dizi2B = new int[2, 3];
+            // diziye değer atadık
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    dizi2B[i, j] = 5;
+                }
+            }
+            // diziyi ekrana yazdırdık.
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(dizi2B[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.ReadKey();
 
             // 2x4'luk bir dizi tanımlayın.
             // Bu dizinin her bir elemanı içi klavyeden sayı alıp atayın.
@@ -335,33 +336,33 @@ namespace Ders5_Arrays_Lists
             //}
 
 
-            Random rnd = new Random();
-            ////// 3 BOYUTLU DİZİ //////
-            int[,,] dizi3B = new int[2, 3,3];
-            for (int z = 0; z < 2;z++) // 3x3 lük diziler.
-            {
-                for (int i = 0; i < 3; i++) // satırlar
-                {
-                    for (int j = 0; j < 3; j++) // sütunlar.
-                    {
-                        dizi3B[z, i, j] = rnd.Next(1000);
-                    }
-                }
-            }
-            //ekrana yazdıralımç
-            for (int z = 0; z < 2; z++) // 3x3 lük diziler.
-            {
-                for (int i = 0; i < 3; i++) // satırlar
-                {
-                    for (int j = 0; j < 3; j++) // sütunlar.
-                    {
-                        Console.Write(dizi3B[z, i, j]+" ");
-                    }
-                    Console.WriteLine();
-                }
-                Console.WriteLine("**********************");
-                Console.WriteLine("**********************");
-            }
+            //Random rnd = new Random();
+            //////// 3 BOYUTLU DİZİ //////
+            //int[,,] dizi3B = new int[2, 3,3];
+            //for (int z = 0; z < 2;z++) // 3x3 lük diziler.
+            //{
+            //    for (int i = 0; i < 3; i++) // satırlar
+            //    {
+            //        for (int j = 0; j < 3; j++) // sütunlar.
+            //        {
+            //            dizi3B[z, i, j] = rnd.Next(1000);
+            //        }
+            //    }
+            //}
+            ////ekrana yazdıralımç
+            //for (int z = 0; z < 2; z++) // 3x3 lük diziler.
+            //{
+            //    for (int i = 0; i < 3; i++) // satırlar
+            //    {
+            //        for (int j = 0; j < 3; j++) // sütunlar.
+            //        {
+            //            Console.Write(dizi3B[z, i, j]+" ");
+            //        }
+            //        Console.WriteLine();
+            //    }
+            //    Console.WriteLine("**********************");
+            //    Console.WriteLine("**********************");
+            //}
 
 
         }
