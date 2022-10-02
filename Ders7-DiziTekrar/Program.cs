@@ -96,16 +96,7 @@ namespace Ders7_DiziTekrar
 
             //    Console.WriteLine();
             //}
-            /*
-             * 
-             * 
-            1 1 1 1 1
-            1 0 0 0 1
-            1 0 0 0 1
-            1 0 0 0 1
-            1 1 1 1 1
 
-            */
             /*
             1 0 0 0 0
             0 1 0 0 0
@@ -136,18 +127,24 @@ namespace Ders7_DiziTekrar
             //    Console.WriteLine();
             //}
 
-
-            //int[,] dizi = new int[5, 5];
-            //for (int i = 0; i < 5; i++)
-            //{
-            //    for (int j = 0; j < 5; j++)
-            //    {
-            //        if (i <= 3 && j <= 3)
-            //        {
-            //            dizi[i, j] = 1;
-            //        }
-            //    }
-            //}
+            /*
+            1 1 1 1 0
+            1 1 1 1 0
+            1 1 1 1 0
+            1 1 1 1 0
+            0 0 0 0 0
+                */
+            int[,] dizi = new int[5, 5];
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    if (i <= 3 && j <= 3)
+                    {
+                        dizi[i, j] = 1;
+                    }
+                }
+            }
 
             //for (int i = 0; i < 5; i++)
             //{
@@ -158,18 +155,27 @@ namespace Ders7_DiziTekrar
             //    Console.WriteLine();
             //}
 
+            /*
+             * 
+            1 1 1 1 1
+            1 0 0 0 1
+            1 0 0 0 1
+            1 0 0 0 1
+            1 1 1 1 1
+             */
 
-            int[,] dizi = new int[5, 5];
-            for (int i = 0; i < 5; i++)
-            {
-                for (int j = 0; j < 5; j++)
-                {
-                    if (i > 0 && i < 4 && j > 0 && j < 4)
-                    {
-                        dizi[i, j] = 1;
-                    }
-                }
-            }
+            //int[,] dizi = new int[5, 5];
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    for (int j = 0; j < 5; j++)
+            //    {
+            //        if ((i == 0) || (i == 4) || (j == 0) || (j == 4))
+            //        {
+            //            dizi[i, j] = 1;
+            //            //Console.WriteLine("i=" + i + " j=" + j);
+            //        }
+            //    }
+            //}
 
             for (int i = 0; i < 5; i++)
             {
