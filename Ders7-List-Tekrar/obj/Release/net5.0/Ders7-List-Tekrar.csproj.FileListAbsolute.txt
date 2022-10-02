@@ -1,0 +1,15 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\Ders7-List-Tekrar.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\Ders7-List-Tekrar.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\Ders7-List-Tekrar.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\Ders7-List-Tekrar.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\Ders7-List-Tekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\ref\Ders7-List-Tekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\bin\Release\net5.0\Ders7-List-Tekrar.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\ref\Ders7-List-Tekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-List-Tekrar\obj\Release\net5.0\Ders7-List-Tekrar.genruntimeconfig.cache

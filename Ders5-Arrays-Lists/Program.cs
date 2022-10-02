@@ -111,13 +111,18 @@ namespace Ders5_Arrays_Lists
             //    Console.WriteLine(item);
             //}
 
-            //int[] dizi1 = { 11, 41, 21, 32, 43, 54, 65, 66, 77, 86 };
+            int[] dizi1 = { 11, 41, 21, 32, 43, 54, 65, 66, 77, 86 };
 
-            //int[] dizi2 = { 44, 55, 13, 14, 12, 54, 21, 33, 57, 56 };
+            int[] dizi2 = { 44, 55, 13, 14, 12, 54, 21, 33, 57, 56 };
 
             //// dizi1'in dizi2'ye 0. indisten itibaren 3 elemanını kopyala.
             //// 2. dizide ilk 3 eleman değişir.
-            ////Array.Copy(dizi1, dizi2, 3);
+            Array.Copy(dizi1, dizi2, 3);
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(dizi2[i]);
+            }
 
             //// dizi1'in 3. indisinden itibaren 5 elemanı kopyala
             //// dizi2'ye 0. indisten itibaren yapıştır.

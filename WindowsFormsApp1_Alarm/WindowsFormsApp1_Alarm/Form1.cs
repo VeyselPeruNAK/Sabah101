@@ -38,7 +38,8 @@ namespace alarm
                 label2.Text = "Alarm Çalıyor...";
 
 
-                player.SoundLocation = @"C:\alarm.wav";
+                //player.SoundLocation = @"C:\Users\veyse\Downloads\Alarm.wav";
+                player.SoundLocation = @"Alarm.wav";
                 player.PlayLooping();
             }
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders7-List-Tekrar/1.0.0": {
+        "runtime": {
+          "Ders7-List-Tekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7-List-Tekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

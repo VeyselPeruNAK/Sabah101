@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\Ders7-MetotSorulari.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\Ders7-MetotSorulari.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\Ders7-MetotSorulari.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\Ders7-MetotSorulari.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\Ders7-MetotSorulari.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\ref\Ders7-MetotSorulari.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\bin\Release\net5.0\Ders7-MetotSorulari.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.csproj.AssemblyReference.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\ref\Ders7-MetotSorulari.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotSorulari\obj\Release\net5.0\Ders7-MetotSorulari.genruntimeconfig.cache

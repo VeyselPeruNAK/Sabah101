@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\Ders7-DiziTekrar.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\Ders7-DiziTekrar.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\Ders7-DiziTekrar.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\Ders7-DiziTekrar.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\Ders7-DiziTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\ref\Ders7-DiziTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\bin\Release\net5.0\Ders7-DiziTekrar.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.csproj.AssemblyReference.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\ref\Ders7-DiziTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-DiziTekrar\obj\Release\net5.0\Ders7-DiziTekrar.genruntimeconfig.cache

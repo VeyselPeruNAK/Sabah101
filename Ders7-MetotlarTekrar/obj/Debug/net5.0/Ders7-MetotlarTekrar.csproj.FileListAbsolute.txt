@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\Ders7-MetotlarTekrar.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\Ders7-MetotlarTekrar.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\Ders7-MetotlarTekrar.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\Ders7-MetotlarTekrar.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\Ders7-MetotlarTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\ref\Ders7-MetotlarTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\bin\Debug\net5.0\Ders7-MetotlarTekrar.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\ref\Ders7-MetotlarTekrar.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders7-MetotlarTekrar\obj\Debug\net5.0\Ders7-MetotlarTekrar.csproj.AssemblyReference.cache
