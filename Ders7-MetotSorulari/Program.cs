@@ -35,30 +35,41 @@ namespace Ders7_MetotSorulari
         {
             int sonuc = 0;
 
+            switch (islem)
+            {
+                case "topla": sonuc = s1 + s2; break;
+                case "çıkart": sonuc = s1 - s2; break;
+                case "çarp": sonuc = s1 * s2; break;
+                case "böl": sonuc = s1 / s2; break;
+                default: Console.WriteLine("İşlem hatalı"); break;
+            }
+
             if (islem.ToLower() == "topla")
             {
                 sonuc = s1 + s2;
                 //Console.WriteLine(sonuc);
                 return sonuc;
             }
-            else if (islem.ToLower() == "çıakrt")
+            else if (islem.ToLower() == "çıkart")
             {
                 sonuc = s1 - s2;
                 //Console.WriteLine(sonuc);
                 return sonuc;
             }
-            else if (islem.ToLower() == "çarpma")
+            else if (islem.ToLower() == "çarp")
             {
                 sonuc = s1 * s2;
                 //Console.WriteLine(sonuc);
                 return sonuc;
             }
-            else
+            else if (islem.ToLower() == "böl")
             {
                 sonuc = s1 / s2;
                 //Console.WriteLine(sonuc);
                 return sonuc;
             }
+            else
+                return -1;
         }
 
 
@@ -88,10 +99,10 @@ namespace Ders7_MetotSorulari
         }
 
 
-        static void Metot3(int a, double b, float c) 
+        static void Metot3(int a, double b, float c)
         {
             Console.WriteLine("Çalıştı");
-            return; 
+            return;
         }
     }
 }

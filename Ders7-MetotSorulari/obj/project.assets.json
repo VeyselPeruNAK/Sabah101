@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\NA-203-SABAH\\DERSLER\\Ders7-MetotSorulari\\Ders7-MetotSorulari.csproj",
+      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7-MetotSorulari\\Ders7-MetotSorulari.csproj",
       "projectName": "Ders7-MetotSorulari",
-      "projectPath": "C:\\Users\\veyse\\source\\repos\\NA-203-SABAH\\DERSLER\\Ders7-MetotSorulari\\Ders7-MetotSorulari.csproj",
+      "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7-MetotSorulari\\Ders7-MetotSorulari.csproj",
       "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veyse\\source\\repos\\NA-203-SABAH\\DERSLER\\Ders7-MetotSorulari\\obj\\",
+      "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7-MetotSorulari\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",

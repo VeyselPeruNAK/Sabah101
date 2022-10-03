@@ -125,7 +125,7 @@ namespace Ders6_Metot_Ornekleri
             return true;
         }
 
-        // -100 aralığında rastgele ürettiği 10 sayıyı int tipinde dizi olarak döndüren metodu tanımlayınız.
+        // 0-100 aralığında rastgele ürettiği 10 sayıyı int tipinde dizi olarak döndüren metodu tanımlayınız.
 
         static int[] Random10()
         {
@@ -133,7 +133,7 @@ namespace Ders6_Metot_Ornekleri
             Random r = new Random();
             for (int i = 0; i < 10; i++)
             {
-                sayiDizisi[i] = r.Next(100); // üretilen sayıları diziye dolduracak.
+                sayiDizisi[i] = r.Next(0, 100); // üretilen sayıları diziye dolduracak.
             }
             return sayiDizisi;
         }
