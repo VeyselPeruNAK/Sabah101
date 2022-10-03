@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\NA-203-SABAH\\DERSLER\\Ders7-MetotlarTekrar\\Ders7-MetotlarTekrar.csproj",
+      "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7-MetotlarTekrar\\Ders7-MetotlarTekrar.csproj",
       "projectName": "Ders7-MetotlarTekrar",
-      "projectPath": "C:\\Users\\veyse\\source\\repos\\NA-203-SABAH\\DERSLER\\Ders7-MetotlarTekrar\\Ders7-MetotlarTekrar.csproj",
+      "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7-MetotlarTekrar\\Ders7-MetotlarTekrar.csproj",
       "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veyse\\source\\repos\\NA-203-SABAH\\DERSLER\\Ders7-MetotlarTekrar\\obj\\",
+      "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7-MetotlarTekrar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\Ders7-List-Tekrar.exe
+C:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\Ders7-List-Tekrar.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\Ders7-List-Tekrar.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\Ders7-List-Tekrar.runtimeconfig.dev.json
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\Ders7-List-Tekrar.dll
+C:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\ref\Ders7-List-Tekrar.dll
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\bin\Debug\net5.0\Ders7-List-Tekrar.pdb
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.csproj.AssemblyReference.cache
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.AssemblyInfoInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.AssemblyInfo.cs
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.csproj.CoreCompileInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.dll
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\ref\Ders7-List-Tekrar.dll
+c:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders7-List-Tekrar\obj\Debug\net5.0\Ders7-List-Tekrar.genruntimeconfig.cache

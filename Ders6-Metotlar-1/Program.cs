@@ -10,7 +10,7 @@ namespace Ders6_Metotlar_1
         {
 
             //// static metodu doğrudan çağırdık.
-            //MerhabaDunya();
+            MerhabaDunya();
 
             //// Nesne üzerinden metot çağırma. (static değilse)
             //// OOP derslerinden sonra anlaşılacak.
@@ -30,6 +30,7 @@ namespace Ders6_Metotlar_1
             //toplam = Topla(s2:10, s1:20);  // Topla metotundan döndürülen değer toplam değişkenine atandı.
             //Console.WriteLine($"toplam değişkenin değeri: {toplam}");
 
+            //Fark metodu
             int f = Fark(10, 20);
             Console.WriteLine($"f değişkenin değeri: {f}"); // -10
             f = Fark(s2: 10, s1: 20);
@@ -54,6 +55,7 @@ namespace Ders6_Metotlar_1
 
             int k2 = Kare(7);
             Console.WriteLine($"7  sayısının karesi = " + k2);
+
             Console.WriteLine($"7  sayısının karesi = " + Kare(7));
 
 

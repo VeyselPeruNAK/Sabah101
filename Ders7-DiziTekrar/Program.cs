@@ -77,7 +77,9 @@ namespace Ders7_DiziTekrar
             //matris[0, 4] = 20;
             //matris[4, 4] = 30;
 
-            // SORU: 2x3'lül bir dizi tanılayın. İçerisine rastgele üretilen (1-15 aralığında) sayıları atayın. Son olarak diziyi ekrana yazdırın.
+            // SORU: 2x3'lül bir dizi tanılayın. İçerisine rastgele üretilen
+            // (1-15 aralığında) sayıları atayın.
+            // Son olarak diziyi ekrana yazdırın.
 
             //int[,] dizi = new int[2,3];
             //Random r = new Random();
