@@ -47,7 +47,12 @@ namespace Ders7_MetotlarTekrar
             Console.WriteLine(s);
 
 
-            //PersonelGuncelle(TC: 7173678734, adSoyad = "Ahmet Demir");
+            PersonelGuncelle(tc: 7173678734, adSoyad: "Zübeyir Demir");
+            foreach (var item in adSoyadlar)
+            {
+                Console.WriteLine(item);
+            }
+
             string ad = "Ahmet Çelik123";
             string bulunanPersonel = PersonelAra(adSoyad: ad); // named parametre ile arayacak.
             if (bulunanPersonel != "")
@@ -89,10 +94,84 @@ namespace Ders7_MetotlarTekrar
 
             string bulunan = PersonelAra(adSoyad: "Nihal");
             Console.WriteLine(bulunan);
+            Console.ReadLine();
 
+            PersonelEkle(7173678734, "Mehmet Demir", "istanbul...", "0546...");
+            PersonelEkle(77777777777, "Hasan Emir", "istanbul...", "0532...");
+            PersonelEkle(88888888888, "Ahmet Çelik", "istanbul...", "0533...");
+            PersonelEkle(66666666666, "Hüseyin Temiz", "istanbul...", "0505...");
+            PersonelEkle(99999999999, "Onur Bakır", "istanbul...", "0506...");
+
+            Console.WriteLine("TC:" + TCler[0]);
+            Console.WriteLine("Ad Soyad:" + adSoyadlar[0]);
+            Console.WriteLine("Adres:" + adresler[0]);
+            Console.WriteLine("Telefon:" + telefonlar[0]);
+
+
+            bulunan = PersonelAra(adSoyad: "Ahmet Çelik");
+            Console.WriteLine("Bulunan:" + bulunan);
+
+            bulunan = PersonelAra(99999999999);
+            Console.WriteLine("Bulunan:" + bulunan);
+            PersonelSil(66666666666);
+            PersonelSil(7173678734);
+            string adSoyad = "Veysel Perü";
+            string adres = "Halk Sokak";
+            string telefon = "05327741763";
+            PersonelGuncelle(99999999999, adSoyad, adres, telefon);
+
+            foreach (var item in adSoyadlar)
+            {
+                Console.WriteLine(item);
+            }
+            foreach (var item in TCler)
+            {
+                Console.WriteLine(item);
+            }
+            foreach (var item in adresler)
+            {
+                Console.WriteLine(item);
+            }
+            foreach (var item in telefonlar)
+            {
+                Console.WriteLine(item);
+            }
+            for (int i = 0; i < TCler.Count; i++)
+            {
+                Console.WriteLine(Convert.ToString(TCler[i]) + " " +
+                           adSoyadlar[i] + " " +
+                           adresler[i] + " " +
+                           telefonlar[i]);
+            }
+
+
+
+            Console.ReadLine();
+
+            //DikdortgenAlanCevre(44, 55);
 
 
         }
+
+        private static void PersonelGuncelle(long tc = 0,
+            string adSoyad = "", string adres = "", string telefon = "")
+        {
+            if (tc != 0)
+            {
+                int indis = TCler.IndexOf(tc);
+                if (indis != -1)
+                {
+                    string r = PersonelAra(tc);
+                    Console.WriteLine(r);
+                    adSoyadlar[indis] = adSoyad;
+                    adresler[indis] = adres;
+                    telefonlar[indis] = telefon;
+                    r = PersonelAra(tc);
+                    Console.WriteLine(r);
+                }
+            }
+        }
+
 
         // Değer döndürmeyen, parametre almayan metot. 
         static void Merhaba()
@@ -154,7 +233,7 @@ namespace Ders7_MetotlarTekrar
 
         // PersonelSil(TC): TC kimlik numarası alınan personel listeden silinecek.başarılı ise true döndürsün.
 
-        // PersonelGuncelle(tc hariç tüm bilgileri opsiyonel olarak alıp güncelleme yapacak. tc + güncellenecek bilgiler.)
+        //PersonelGuncelle();//(tc hariç tüm bilgileri opsiyonel olarak alıp güncelleme yapacak. tc + güncellenecek bilgiler.)
         // Personelin eski ve yeni bilgisi string ile alt alta birleştirilerek döndürülsün.
         // PersonelAra(herhangi bir parametre ile arama yapılabilecek.)
         // Personelin tüm bilgileri string olarak döndürülsün.
