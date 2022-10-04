@@ -25,8 +25,20 @@ namespace Ders7_MetotSorulari
             // Kendisine gönderilen double dizisini float dizisine çeviren makeItFloat isimli metodu tanımlayınız.
             // 10 elemanlı bir dizi.
 
-            //double[] doubleArrayExp = { 5.0, 4.5, 6.5, 7.9 };
-            //makeItFloat(doubleArrayExp);
+            //double[] doubleArray1 = { 5.0, 4.5, 6.5, 7.9 };
+            //float[] floatArray = makeItFloat(doubleArray1);
+
+            //foreach (var item in floatArray)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            double[] doubleArray2 = { 1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7, 8.8, 9.9, 10.1 };
+            float[] floatArray2 = makeItFloat(doubleArray2);
+
+            foreach (var item in floatArray2)
+            {
+                Console.WriteLine(item);
+            }
 
             Metot3(3, 3.4D, 3.5f);
         }

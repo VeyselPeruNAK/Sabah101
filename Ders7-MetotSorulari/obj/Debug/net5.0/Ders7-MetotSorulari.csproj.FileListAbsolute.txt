@@ -1,0 +1,16 @@
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\Ders7-MetotSorulari.exe
+C:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\Ders7-MetotSorulari.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\Ders7-MetotSorulari.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\Ders7-MetotSorulari.runtimeconfig.dev.json
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\Ders7-MetotSorulari.dll
+C:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\ref\Ders7-MetotSorulari.dll
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\bin\Debug\net5.0\Ders7-MetotSorulari.pdb
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.csproj.AssemblyReference.cache
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.AssemblyInfoInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.AssemblyInfo.cs
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.csproj.CoreCompileInputs.cache
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.dll
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\ref\Ders7-MetotSorulari.dll
+c:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders7-MetotSorulari\obj\Debug\net5.0\Ders7-MetotSorulari.genruntimeconfig.cache
