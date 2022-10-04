@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veysel.peru.SMARTSINIF\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj": {}
+    "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veysel.peru.SMARTSINIF\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj": {
+    "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veysel.peru.SMARTSINIF\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj",
+        "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj",
         "projectName": "Ders7_Metotlar_Devam",
-        "projectPath": "C:\\Users\\veysel.peru.SMARTSINIF\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj",
-        "packagesPath": "C:\\Users\\veysel.peru.SMARTSINIF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veysel.peru.SMARTSINIF\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\obj\\",
+        "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam.csproj",
+        "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders7_Metotlar_Devam\\Ders7_Metotlar_Devam\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\veysel.peru.SMARTSINIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
