@@ -83,7 +83,7 @@ namespace Ders8_Stringmethods
             //SORU3: Girilen metini tersten yazan programı metot kullanarak yazınız.
 
             //char harf = test[0]; // M
-            TersYaz("NETWORK AKADEMİ");
+            TersYaz("SMART PRO");
 
         }
         static int KelimeSay(string yazi)
