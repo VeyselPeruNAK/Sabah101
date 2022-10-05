@@ -82,7 +82,7 @@ namespace Ders8_Metotlar_Son
             sayi = 20;
             return sayi + 100;
         }
-
+        //static int EnBuyukSayiyiBul(params int[] sayilar, int b) // A params parameter must be the last parameter in a formal parameter list.
         static int EnBuyukSayiyiBul(params int[] sayilar)
         {
             int enBuyukSayi = -1;
