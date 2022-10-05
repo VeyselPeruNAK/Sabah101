@@ -11,7 +11,7 @@ namespace Ders8_Metotlar_Son
             //Console.WriteLine(Topla(4,5,12,13,14));
             //Console.WriteLine(Topla(4,5,100));
 
-            //Console.WriteLine(PuanTopla("Mehmet",33,50,40,20,30));
+            Console.WriteLine(PuanTopla("Mehmet", 33, 50, 40, 20, 30));
             //Console.WriteLine(PuanTopla("Engin",35,45,56));
 
             //int f4 = Faktoriyel(4);
@@ -23,9 +23,14 @@ namespace Ders8_Metotlar_Son
 
 
             int s2; // ilk değer ataması yapmadık.
-            Console.WriteLine(DegerDegistirOut(out s2));
-            Console.WriteLine(s2);
+            int s3 = DegerDegistirOut(out s2);
+            Console.WriteLine("s2:" + s2);
+            Console.WriteLine("s3:" + s3);
 
+            int sonuc = EnBuyukSayiyiBul(10, 5, 7, 99, 1531, 22, 331313);
+            Console.WriteLine(sonuc);
+            sonuc = EnBuyukSayiyiBul(10, 5, 7, 99);
+            Console.WriteLine(sonuc);
         }
 
         static int Topla(params int[] sayilar)
@@ -78,6 +83,24 @@ namespace Ders8_Metotlar_Son
             return sayi + 100;
         }
 
+        static int EnBuyukSayiyiBul(params int[] sayilar)
+        {
+            int enBuyukSayi = -1;
+            //if (sayilar.Length > 0)
+            //{
+            //    enBuyukSayi = sayilar[0];
+            //}
+
+            foreach (int sayi in sayilar)
+            {
+                if (enBuyukSayi < sayi)
+                {
+                    enBuyukSayi = sayi;
+                }
+            }
+
+            return enBuyukSayi;
+        }
 
 
 

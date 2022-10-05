@@ -6,20 +6,23 @@ namespace Ders8_Stringmethods
     {
         static void Main(string[] args)
         {
-            //string birlesim = String.Concat("Smart", "Pro", "405Sabah", 2022);
-            //Console.WriteLine(birlesim);
+            string birlesim = String.Concat("Smart", "Pro", "405Sabah", 2022);
+            Console.WriteLine(birlesim);
+            Console.ReadLine();
             //int[] dizi = { 3, 4, 5, 6 };
             //Console.WriteLine(   String.Concat(dizi) );
 
-            //string str1 = "KADIKÖY";
-            //string str2 = "kadıköy";
+            string str1 = "kadıköy";
+            string str2 = "KADIKÖY";
 
             //Console.WriteLine(String.Compare(str1,str2));
 
-            //Console.WriteLine(String.Compare(str1, 1, str2, 1, 3)); // indexten itibaren son int kadar
-            //Console.WriteLine(String.Compare(str1, 1, str2, 1, 3, false)); // indexten itibaren son int kadar büyük küçük harf duyarlılığı ayarı
+            Console.WriteLine(String.Compare(str1, 0, str2, 0, 4)); // indexten itibaren son int kadar
 
-            //string mtn = "BEŞİKTAŞ";
+            // IgnoreCase = true; indexten itibaren son int kadar büyük küçük harf farketmez ayarı
+            Console.WriteLine(String.Compare(str1, 0, str2, 0, 4, true));
+
+            string mtn = "BEŞİKTAŞ";
             //Console.WriteLine(mtn.IndexOf("Ş")); // ilk Ş değerinin indexi.
             //Console.WriteLine(mtn.LastIndexOf("Ş")); // son Ş değerinin indexi.
             //Console.WriteLine(mtn.StartsWith("BEŞ")); // BEŞ ile başlıyor mu? 
@@ -48,11 +51,12 @@ namespace Ders8_Stringmethods
 
 
 
-            string cumle = "Merhaba arkadaşlar. Bugün sınav var.";
+            string cumle = "Merhaba arkadaşlar. Bugün          sınav          var.";
             string[] kelimeler = cumle.Split(' ');
             foreach (var kelime in kelimeler)
             {
-                Console.WriteLine(kelime);
+                if (kelime != "")
+                    Console.WriteLine(kelime);
             }
             //// dizi halindeki verileri birleştirmek için join.
 
@@ -69,14 +73,14 @@ namespace Ders8_Stringmethods
             //Console.WriteLine(buyuk.Insert(5, "_BRO_"));
             //Console.WriteLine(buyuk.Replace('K', 'C'));
 
-            //Console.WriteLine(buyuk.Replace("DEMİ", "OKUL"));
+            //Console.WriteLine(buyuk.Replace("PRO", "OKUL"));
 
             //string test = "Merhaba Dünya";
             //Console.WriteLine(test.Substring(8)); //Dünya
             //Console.WriteLine(test.Substring(0, 7)); //Merhaba
             //Console.WriteLine(test.Substring(8, 5)); //Dünya
 
-            //Console.WriteLine(test.Contains("Dün")); // Dün yazıda var mı?
+            //Console.WriteLine(test.Contains("Mer")); // Dün yazıda var mı?
 
             //SORU2: Girilen metindeki kelime sayısını bulan metodu yazınız.(boşluk)
 
@@ -85,12 +89,25 @@ namespace Ders8_Stringmethods
             //char harf = test[0]; // M
             TersYaz("SMART PRO");
 
+
+            string cumle2 = "Merhaba arkadaşlar. Bugün          sınav          var.";
+            Console.WriteLine(cumle2);
+            Console.Write(" cümlesindeki kelime sayısı:");
+            Console.WriteLine(KelimeSay(cumle2));
+            Console.ReadLine();
+
         }
         static int KelimeSay(string yazi)
         {
             int toplamKelime = 0;
             string[] dizi = yazi.Split(' ');
-            return dizi.Length - 1;
+            //return dizi.Length - 1;
+            foreach (var item in dizi)
+            {
+                if (item != "")
+                    toplamKelime++;
+            }
+            return toplamKelime;
         }
         static void TersYaz(string yazi)
         {
@@ -98,6 +115,7 @@ namespace Ders8_Stringmethods
             {
                 Console.Write(yazi[i]);
             }
+            Console.WriteLine();
         }
     }
 }

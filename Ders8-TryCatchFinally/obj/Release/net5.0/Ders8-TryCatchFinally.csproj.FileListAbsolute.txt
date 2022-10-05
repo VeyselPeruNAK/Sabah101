@@ -1,0 +1,16 @@
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.AssemblyInfo.cs
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\Ders8-TryCatchFinally.exe
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\Ders8-TryCatchFinally.deps.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\Ders8-TryCatchFinally.runtimeconfig.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\Ders8-TryCatchFinally.runtimeconfig.dev.json
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\Ders8-TryCatchFinally.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\ref\Ders8-TryCatchFinally.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\bin\Release\net5.0\Ders8-TryCatchFinally.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\ref\Ders8-TryCatchFinally.dll
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.pdb
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.genruntimeconfig.cache
+C:\Users\na\Desktop\NA-203-SABAH\DERSLER\Ders8-TryCatchFinally\obj\Release\net5.0\Ders8-TryCatchFinally.csproj.AssemblyReference.cache

@@ -7,7 +7,7 @@ namespace Ders6_Metot_Ornekleri
     {
         static void Main(string[] args)
         {
-            //int sayi = sayiGir();
+            int sayi = sayiGir();
             //Console.WriteLine("Girilen sayı : "+sayi);
 
             //int besFaktoriyeli = Faktoriyel(5);
@@ -30,18 +30,18 @@ namespace Ders6_Metot_Ornekleri
             //}
 
 
-            //int[] sayilar = { 10, 20, 30, 40, 50, 11, 22, 33, 44, 55 };
-            //diziYaz(sayilar);
+            int[] sayilar = { 10, 20, 30, 40, 50, 11, 22, 33, 44, 55 };
+            diziYaz(sayilar);
 
-            //int[] tekSayilar = diziTekleri(sayilar);
-            //diziYaz(tekSayilar, false); // sıfırları göstermeyen metoda gödnerdik.
+            int[] tekSayilar = diziTekleri(sayilar);
+            diziYaz(tekSayilar, false); // sıfırları göstermeyen metoda gönderdik.
 
             //Console.WriteLine(buyuk2li(99,127));
             //Console.WriteLine(buyuk3lu(124,144,256));
 
             ////liste sorusu
-            //List<int> sayilarim = new List<int>() { 2, 3, 4, 5 };
-            //List<int> karelerim = listeKare(sayilarim);
+            List<int> sayilarim = new List<int>() { 2, 3, 4, 5 };
+            List<int> karelerim = listeKare(sayilarim);
 
             //int boyut = sayilarim.Count();
             //for (int i = 0; i < boyut; i++)

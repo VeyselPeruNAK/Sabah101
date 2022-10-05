@@ -10,15 +10,15 @@ namespace Ders7_MetotSorulari
             // Kullanıcıdan 2 sayı 1 işlem alıp sonucu döndüren metodu tanımlayınız.
             // (s1,s2,string)
 
-            //Console.Write("Bir Sayı Giriniz: ");
-            //int sayi1 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Bir Sayı Giriniz: ");
-            //int sayi2 = Convert.ToInt32(Console.ReadLine());
-            //Console.Write("Bir İşlem Türü Giriniz: ");
-            //string isleminiz = Console.ReadLine();
+            Console.Write("Bir Sayı Giriniz: ");
+            int sayi1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Bir Sayı Giriniz: ");
+            int sayi2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Bir İşlem Türü Giriniz: ");
+            string isleminiz = Console.ReadLine();
 
 
-            //int a = KullaniciIslem(sayi1, sayi2, isleminiz);
+            int a = KullaniciIslem(sayi1, sayi2, isleminiz);
             //Console.WriteLine(a);
 
 
