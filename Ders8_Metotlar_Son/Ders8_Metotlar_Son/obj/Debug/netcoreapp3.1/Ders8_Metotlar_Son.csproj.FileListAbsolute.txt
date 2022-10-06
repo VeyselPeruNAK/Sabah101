@@ -1,0 +1,14 @@
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\bin\Debug\netcoreapp3.1\Ders8_Metotlar_Son.exe
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\bin\Debug\netcoreapp3.1\Ders8_Metotlar_Son.deps.json
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\bin\Debug\netcoreapp3.1\Ders8_Metotlar_Son.runtimeconfig.json
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\bin\Debug\netcoreapp3.1\Ders8_Metotlar_Son.runtimeconfig.dev.json
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\bin\Debug\netcoreapp3.1\Ders8_Metotlar_Son.dll
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\bin\Debug\netcoreapp3.1\Ders8_Metotlar_Son.pdb
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.csproj.AssemblyReference.cache
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.AssemblyInfoInputs.cache
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.AssemblyInfo.cs
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.csproj.CoreCompileInputs.cache
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.dll
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.pdb
+C:\Users\veysel.peru.SMARTSINIF\source\repos\Sabah101\Ders8_Metotlar_Son\Ders8_Metotlar_Son\obj\Debug\netcoreapp3.1\Ders8_Metotlar_Son.genruntimeconfig.cache

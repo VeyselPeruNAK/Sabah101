@@ -6,7 +6,7 @@ namespace Ders8_Metotlar_Son
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine(Topla(4,5));
+            Console.WriteLine(Topla(4, 5));
             //Console.WriteLine(Topla(4,5,5,6,7));
             //Console.WriteLine(Topla(4,5,12,13,14));
             //Console.WriteLine(Topla(4,5,100));
