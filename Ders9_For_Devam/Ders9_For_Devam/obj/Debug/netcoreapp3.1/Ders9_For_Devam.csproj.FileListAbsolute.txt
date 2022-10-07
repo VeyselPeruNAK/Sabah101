@@ -1,0 +1,14 @@
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\bin\Debug\netcoreapp3.1\Ders9_For_Devam.exe
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\bin\Debug\netcoreapp3.1\Ders9_For_Devam.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\bin\Debug\netcoreapp3.1\Ders9_For_Devam.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\bin\Debug\netcoreapp3.1\Ders9_For_Devam.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\bin\Debug\netcoreapp3.1\Ders9_For_Devam.dll
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\bin\Debug\netcoreapp3.1\Ders9_For_Devam.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.dll
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders9_For_Devam\Ders9_For_Devam\obj\Debug\netcoreapp3.1\Ders9_For_Devam.genruntimeconfig.cache
