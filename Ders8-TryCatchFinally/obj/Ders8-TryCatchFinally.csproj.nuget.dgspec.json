@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj": {}
+    "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj": {}
   },
   "projects": {
-    "c:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj": {
+    "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj",
+        "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj",
         "projectName": "Ders8-TryCatchFinally",
-        "projectPath": "c:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj",
+        "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\Ders8-TryCatchFinally.csproj",
         "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\obj\\",
+        "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah101\\Ders8-TryCatchFinally\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
