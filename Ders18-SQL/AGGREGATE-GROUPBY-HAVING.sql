@@ -13,7 +13,8 @@ USE [AdventureWorksLT2012]
 SELECT Customer.CompanyName,Customer.[CustomerID] FROM SalesLT.Customer 
 ORDER BY Customer.[CustomerID]; -- Ayrý ayrý listeledik.
 -- Hangi satýþ temsilcisinin kaç müþterisi var?
-SELECT COUNT(*) as MüþteriSayisi,c.SalesPerson FROM SalesLT.Customer c GROUP BY c.SalesPerson;
+SELECT COUNT(*) as MüþteriSayisi,c.SalesPerson FROM SalesLT.Customer c 
+GROUP BY c.SalesPerson;
 
 -- 80 den fazla müþterisi olan satýcý sayýsý:
 SELECT COUNT(*) as MüþteriSayisi,c.SalesPerson FROM SalesLT.Customer c GROUP BY c.SalesPerson
@@ -42,15 +43,17 @@ SELECT SUM([Order Details].Quantity),[Order Details].ProductID FROM [Order Detai
 GROUP BY [Order Details].ProductID ORDER BY SUM([Order Details].Quantity) DESC;
 -- Yukarýdaki soruya ek olarak 1998 5. ay ve sonrasýnýn sipariþlerini filtrelesin.
 
-SELECT SUM([Order Details].Quantity),[Order Details].ProductID,Orders.OrderDate FROM [Order Details]
+SELECT SUM([Order Details].Quantity),[Order Details].ProductID,Orders.OrderDate 
+FROM [Order Details]
 INNER JOIN Orders ON [Order Details].OrderID= Orders.OrderID
 GROUP BY [Order Details].ProductID,Orders.OrderDate 
 HAVING Orders.OrderDate >= '1998-05-01 00:00:00.000'
 ORDER BY SUM([Order Details].Quantity) DESC;
 
+USE [AdventureWorksLT2012]
 
-
-SELECT COUNT(*) FROM Products WHERE CategoryID IS NULL; -- CategoryID si NULL
+SELECT COUNT(*) FROM SalesLT.Product 
+WHERE ProductCategoryID IS NULL; -- CategoryID si NULL
 -- olanlarý getir.
 
 -- Her bir üründen kaç adet sipariþ verilmiþ?

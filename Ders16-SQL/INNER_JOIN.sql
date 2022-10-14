@@ -1,4 +1,5 @@
-SELECT * FROM tb_Ogrenci WHERE numara=1;
+use DB_Test 
+SELECT * FROM tb_Ogrenci WHERE ID=1; 
 
 SELECT tb_Ogrenci.ad,tb_Ogrenci.soyad,tb_Ogretmen.ad ogrretmenAd,
 tb_Ogretmen.soyad as ogretmenSoyad
