@@ -88,16 +88,18 @@ namespace Ders22_Dikdortgen
             this.lblCevre.AutoSize = true;
             this.lblCevre.Location = new System.Drawing.Point(396, 91);
             this.lblCevre.Name = "lblCevre";
-            this.lblCevre.Size = new System.Drawing.Size(0, 15);
+            this.lblCevre.Size = new System.Drawing.Size(72, 15);
             this.lblCevre.TabIndex = 5;
+            this.lblCevre.Text = "_____________";
             // 
             // lblAlan
             // 
             this.lblAlan.AutoSize = true;
             this.lblAlan.Location = new System.Drawing.Point(396, 137);
             this.lblAlan.Name = "lblAlan";
-            this.lblAlan.Size = new System.Drawing.Size(0, 15);
+            this.lblAlan.Size = new System.Drawing.Size(72, 15);
             this.lblAlan.TabIndex = 6;
+            this.lblAlan.Text = "_____________";
             // 
             // Form1
             // 
