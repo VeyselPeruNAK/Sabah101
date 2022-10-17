@@ -17,5 +17,16 @@ namespace Ders26_Color
             InitializeComponent();
         }
 
+        private void txt1_MouseHover(object sender, EventArgs e)
+        {
+            BackColor = Color.Red;
+            txt1.Text = "Color red";
+        }
+
+        private void txt1_MouseLeave(object sender, EventArgs e)
+        {
+            BackColor = Color.Aqua;
+            txt1.Text = "Color aqua";
+        }
     }
 }

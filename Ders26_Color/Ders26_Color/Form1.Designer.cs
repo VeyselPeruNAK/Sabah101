@@ -29,13 +29,34 @@ namespace Ders26_Color
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.txt1 = new System.Windows.Forms.TextBox();
+            this.SuspendLayout();
+            // 
+            // txt1
+            // 
+            this.txt1.Location = new System.Drawing.Point(171, 69);
+            this.txt1.Name = "txt1";
+            this.txt1.Size = new System.Drawing.Size(100, 23);
+            this.txt1.TabIndex = 0;
+            this.txt1.MouseLeave += new System.EventHandler(this.txt1_MouseLeave);
+            this.txt1.MouseHover += new System.EventHandler(this.txt1_MouseHover);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txt1);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.TextBox txt1;
     }
 }
 
