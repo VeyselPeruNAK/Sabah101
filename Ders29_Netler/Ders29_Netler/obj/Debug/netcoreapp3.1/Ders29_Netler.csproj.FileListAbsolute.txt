@@ -1,0 +1,16 @@
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\bin\Debug\netcoreapp3.1\Ders29_Netler.exe
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\bin\Debug\netcoreapp3.1\Ders29_Netler.deps.json
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\bin\Debug\netcoreapp3.1\Ders29_Netler.runtimeconfig.json
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\bin\Debug\netcoreapp3.1\Ders29_Netler.runtimeconfig.dev.json
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\bin\Debug\netcoreapp3.1\Ders29_Netler.dll
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\bin\Debug\netcoreapp3.1\Ders29_Netler.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.csproj.AssemblyReference.cache
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.Form1.resources
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.csproj.GenerateResource.cache
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.AssemblyInfoInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.AssemblyInfo.cs
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.csproj.CoreCompileInputs.cache
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.dll
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.pdb
+C:\Users\veyse\source\repos\Sabah101\Ders29_Netler\Ders29_Netler\obj\Debug\netcoreapp3.1\Ders29_Netler.genruntimeconfig.cache
