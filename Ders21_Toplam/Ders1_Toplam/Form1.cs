@@ -25,5 +25,10 @@ namespace Ders1_Toplam
             label1.Text = (i + j).ToString();
 
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
