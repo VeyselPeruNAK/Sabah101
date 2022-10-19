@@ -24,8 +24,9 @@ namespace Ders31_Password
         private void Form1_Load(object sender, EventArgs e)
         {
             string sorgu = "Select * From tblUser";  //   where usr=@user AND pwd=@pass";
-            //con = new SqlConnection(@"server=405-00; Initial Catalog=dbLogin;Integrated Security=SSPI");
+            // Bu degil.//con = new SqlConnection(@"server=405-00; Initial Catalog=dbLogin;Integrated Security=SSPI");
             con = new SqlConnection(@"Data Source=405-00;Initial Catalog=dbLogin;User ID=sa;Password=1234");
+            //con = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=dbLogin;User ID=sa;Password=1234");
             cmd = new SqlCommand(sorgu, con);
             //cmd.Parameters.AddWithValue("@user", txtUser.Text);
             //cmd.Parameters.AddWithValue("@pass", txtPass.Text);
@@ -42,8 +43,9 @@ namespace Ders31_Password
         private void button1_Click(object sender, EventArgs e)
         {
             string sorgu = "Select * From tblUser  where usr=@user AND pwd=@pass";
-            //con = new SqlConnection(@"server=405-00; Initial Catalog=dbLogin;Integrated Security=SSPI");
+            //Bu degil//con = new SqlConnection(@"server=405-00; Initial Catalog=dbLogin;Integrated Security=SSPI");
             con = new SqlConnection(@"Data Source=405-00;Initial Catalog=dbLogin;User ID=sa;Password=1234");
+            //con = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=dbLogin;User ID=sa;Password=1234");
             cmd = new SqlCommand(sorgu, con);
             cmd.Parameters.AddWithValue("@user", txtUser.Text);
             cmd.Parameters.AddWithValue("@pass", txtPass.Text);
