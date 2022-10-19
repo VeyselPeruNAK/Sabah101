@@ -66,6 +66,7 @@ namespace UserPassword
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(255, 23);
             this.txtUser.TabIndex = 2;
+            this.txtUser.Text = "sa";
             // 
             // txtPass
             // 
@@ -74,6 +75,7 @@ namespace UserPassword
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(255, 23);
             this.txtPass.TabIndex = 3;
+            this.txtPass.Text = "1234";
             // 
             // button1
             // 

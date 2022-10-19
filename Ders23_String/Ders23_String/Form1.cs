@@ -21,7 +21,7 @@ namespace Ders23_String
         {
             string testString1 = textBox1.Text;
             string testString2 = textBox2.Text;
-            int result = string.Compare(testString1, testString2, true);
+            int result = string.Compare(textBox1.Text, textBox2.Text, true);
             label1.Text = "";
 
             if (result == 0)
@@ -42,7 +42,7 @@ namespace Ders23_String
         {
             string testString1 = textBox1.Text;
             string testString2 = textBox2.Text;
-            int result = string.Compare(testString1, testString2, true);
+            int result = string.Compare(textBox1.Text, textBox2.Text, true);
             label1.Text = "";
 
             if (result == 0)

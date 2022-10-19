@@ -25,8 +25,8 @@ namespace UserPassword
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //string sorgu = "SELECT * FROM tblUser where usr=@user AND pwd=@pass";
-            string sorgu = "SELECT * FROM tblUser";
+            string sorgu = "SELECT * FROM tblUser where usr=@user AND pwd=@pass";
+            //string sorgu = "SELECT * FROM tblUser";
             con = new SqlConnection(@"server=.\SQLEXPRESS; Initial Catalog=dbLogin;Integrated Security=SSPI");
             cmd = new SqlCommand(sorgu, con);
             cmd.Parameters.AddWithValue("@user", txtUser.Text);
