@@ -58,5 +58,10 @@ namespace Ders23_String
                 label1.Text += "Test String1 is less than Test String2";
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
