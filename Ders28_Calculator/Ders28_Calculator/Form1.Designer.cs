@@ -242,9 +242,8 @@ namespace Ders28_Calculator
             this.lbResult.AutoSize = true;
             this.lbResult.Location = new System.Drawing.Point(77, 5);
             this.lbResult.Name = "lbResult";
-            this.lbResult.Size = new System.Drawing.Size(38, 15);
+            this.lbResult.Size = new System.Drawing.Size(0, 15);
             this.lbResult.TabIndex = 23;
-            this.lbResult.Text = "label1";
             // 
             // Form1
             // 
