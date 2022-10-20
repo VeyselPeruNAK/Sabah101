@@ -28,7 +28,7 @@ namespace Ders25_Button
 
         private void txt1_TextChanged(object sender, System.EventArgs e)
         {
-            if (txt1.Text.Equals("end"))
+            if (txt1.Text.ToUpper().Equals("SON"))
                 btn1.Visible = false;
             else
                 btn1.Visible = true;
