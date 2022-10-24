@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj": {}
+    "c:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj": {
+    "c:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj",
+        "projectUniqueName": "c:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj",
         "projectName": "Ders21_Form_AdoNet",
-        "projectPath": "C:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj",
+        "projectPath": "c:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\Ders21_Form_AdoNet.csproj",
         "packagesPath": "C:\\Users\\veyse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\obj\\",
+        "outputPath": "c:\\Users\\veyse\\source\\repos\\Sabah102\\Ders21_Form_AdoNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
