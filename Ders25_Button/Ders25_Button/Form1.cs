@@ -21,7 +21,7 @@ namespace Ders25_Button
 
         private void btn1_Click(object sender, System.EventArgs e)
         {
-            txt1.Text = "Click Button";
+            txt1.Text = "Buton Klik";
         }
 
 
